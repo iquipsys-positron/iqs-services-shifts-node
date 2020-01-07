@@ -1,0 +1,1 @@
+export { ShiftsServiceFactory } from './ShiftsServiceFactory';
